@@ -3,7 +3,7 @@
 	url = https://github.com/free5gc/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
-	url = https://github.com/limlynn/ausf.git
+	url = git@github.com:limlynn/ausf.git
 [submodule "n3iwf"]
 	path = NFs/n3iwf
 	url = https://github.com/free5gc/n3iwf.git
